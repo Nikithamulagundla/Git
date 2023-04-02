@@ -4,16 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05d19b74-39ac-4fd0-9924-2b01cf0d75ea" name="Changes" comment="second commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="05d19b74-39ac-4fd0-9924-2b01cf0d75ea" name="Changes" comment="Merge remote-tracking branch 'origin/feature/Main' into feature/Main" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -50,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680449897854</updated>
-      <workItem from="1680449899172" duration="662000" />
+      <workItem from="1680449899172" duration="1236000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1680450021555</created>
@@ -59,7 +57,28 @@
       <option name="project" value="LOCAL" />
       <updated>1680450021555</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second2 commit">
+      <created>1680450583794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680450583794</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second2 commit">
+      <created>1680451086543</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680451086543</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/feature/Main' into feature/Main">
+      <created>1680451133174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680451133174</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+    <MESSAGE value="second2 commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/feature/Main' into feature/Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/feature/Main' into feature/Main" />
   </component>
 </project>
